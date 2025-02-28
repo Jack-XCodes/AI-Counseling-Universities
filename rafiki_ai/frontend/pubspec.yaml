@@ -1,0 +1,30 @@
+name: rafiki_ai
+description: AI guidance and counseling for Kenyan university students
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.16.0 <4.0.0"  # Updated to match Flutter 3.16.0, no upper bound for future updates
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6  # Keep for iOS-style widgets, if needed (optional for Android/web)
+  http: ^1.2.1  # Updated to latest stable version for HTTP requests to backend
+  shared_preferences: ^2.2.1  # Keep for storing client preferences (e.g., _clientId), useful for persistence
+  provider: ^6.0.5  # Keep for state management, if used in main.dart (optional, remove if unused)
+  animated_text_kit: ^4.2.2  # Keep for animated text effects, if used in UI (optional, remove if unused)
+  google_fonts: ^6.2.1  # Keep for custom fonts, enhances UI (optional, remove if unused)
+  lottie: ^3.3.1  # Keep for animations (e.g., loading spinner), if used in UI (optional, remove if unused)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Keep for linting, ensures code quality
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/animations/

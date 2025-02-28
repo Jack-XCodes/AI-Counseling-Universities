@@ -1,0 +1,63 @@
+# Flutter-specific files
+/build/
+/.idea/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.flutter-web-sdk/
+.flutter-web-sdk
+.flutter-web-sdk-*
+.flutter-web-sdk-dependencies/
+.flutter-web-sdk-dependencies-*
+.flutter-web-sdk-dependencies-*/*
+.flutter-web-sdk-dependencies-*/.dart_tool/
+.flutter-web-sdk-dependencies-*/.dart_tool/*
+.flutter-web-sdk-dependencies-*/.pub/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+env.bak/
+env.bak2/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive files (e.g., API keys)
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.jks
+
+# Flutter test coverage
+coverage/
+
+# Flutter web-specific
+web/.dart_tool/
+web/build/
+web/.flutter-web-sdk/

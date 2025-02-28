@@ -1,0 +1,74 @@
+{
+    "anonymous": [
+        {
+            "timestamp": "2025-02-28T20:33:59.296700",
+            "query": "hello, am I depressed ? any help here ??",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:34:00.978973",
+            "query": "Rafiki: Jambo.  It sounds like you're going through a tough time. Feeling down is common, especially with the pressures of university life.  Let's explore this.  Are you experiencing persistent sadness, loss of interest in things you used to enjoy, or changes in your sleep or appetite?  If so, talking to someone\u2014a friend, family member, or a counselor\u2014is a great first step.  Try also focusing on small, achievable goals each day, like going for a walk or spending time with loved ones.  Remember,  pole pole slowly, slowly, we\u2019ll get through this together.  We can explore some coping strategies together if you'd like.",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:36:11.166074",
+            "query": "hello I am depressed",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:36:13.529515",
+            "query": "Rafiki: Rafiki: Jambo.  I hear you saying you're depressed.  That\u2019s okay,  many students feel this way.  Tell me more\u2014what specifically is making you feel this way?  Is it exams, friendships, or something else?  Knowing this will help us find the best way forward.  In the meantime, try deep breathing exercises\u2014inhale slowly, exhale slowly\u2014this can help calm your mind.  Even a short walk outside can make a difference.  Pole pole, we'll work through this together.",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:36:52.198524",
+            "query": "man you talk too  much",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:36:52.758630",
+            "query": "Rafiki: Rafiki:  Samahani.  I understand.  Let's keep it brief. What's bothering you most right now?",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:38:17.764608",
+            "query": "okay sikia man nikumoto man",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:38:18.992956",
+            "query": "Rafiki: Rafiki:  Pole.  Nikuelewe.  \"Nikumoto\" means you're feeling overwhelmed, yes?  Let's try to pinpoint what's causing this. Is it academic pressure,  friends,  family, or something else entirely?  Try writing it down\u2014even a few words can help.  Then, take a 10-minute break \u2013 listen to music, have some tea.  Remember to breathe.  Hakuna matata; we can handle this together, step by step.",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:42:58.009973",
+            "query": "hello can you recall what I juts told your??",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:42:59.861732",
+            "query": "Rafiki: Rafiki:  Of course! You said you felt overwhelmed,  \"nikumoto.\" We talked about identifying the source \u2013 school, friends, family?  Let's revisit that.  What feels most pressing right now?  Even a small step towards understanding helps.  Try the breathing exercise again.  Inhale deeply, exhale slowly.  You're not alone in this.  Pole sana.",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:53:40.223302",
+            "query": "hello , sasa",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:53:42.201730",
+            "query": "Rafiki: Rafiki: Sasa?  What's happening sasa? Tell me what's on your mind.  Is it the exams?  A friend?  Feeling lost about the future?  Let's talk it through.  Sometimes, just saying it out loud helps.  Try to describe the feeling\u2014a knot in your stomach? A heavy heart? Naming it is the first step.  Then, we can find a way forward, together.  Uko salama.",
+            "role": "assistant"
+        },
+        {
+            "timestamp": "2025-02-28T20:54:18.964974",
+            "query": "nah am  not cool neither good at all man what saysing ca help my day am dmotivated bruv",
+            "role": "user"
+        },
+        {
+            "timestamp": "2025-02-28T20:54:19.951950",
+            "query": "Rafiki: Rafiki:  Pole sana, feeling down is okay.  \"Hakuna matata,\"  we'll work through this.  What specifically makes you feel \"not cool\"? Is it academics, social life, or something else?  Let's focus on one small thing you can do today to improve your mood \u2013 even a short walk or listening to your favorite song.  Small wins build confidence.  We can explore this further.  Shikamoo.",
+            "role": "assistant"
+        }
+    ]
+}
